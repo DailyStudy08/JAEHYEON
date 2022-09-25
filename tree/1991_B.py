@@ -41,6 +41,8 @@ def postorder(n):       # 후위 순회
         print(tree[n], end='')
 
 
+
+
 preorder(1)
 print()
 inorder(1)
